@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>diaCentenario</key>
+		<date>2010-09-01T03:00:00Z</date>
+		<key>0d</key>
+		<string>0d.png</string>
+		<key>0t</key>
+		<string>0t.png</string>
+		<key>1t</key>
+		<string>1t.png</string>
+		<key>1d</key>
+		<string>1d.png</string>
+		<key>2d</key>
+		<string>2d.png</string>
+		<key>2t</key>
+		<string>2t.png</string>
+		<key>3d</key>
+		<string>3d.png</string>
+		<key>3t</key>
+		<string>3t.png</string>
+		<key>4d</key>
+		<string>4d.png</string>
+		<key>4t</key>
+		<string>4t.png</string>
+		<key>5d</key>
+		<string>5d.png</string>
+		<key>5t</key>
+		<string>5t.png</string>
+		<key>6d</key>
+		<string>6d.png</string>
+		<key>6t</key>
+		<string>6t.png</string>
+		<key>7d</key>
+		<string>7d.png</string>
+		<key>7t</key>
+		<string>7t.png</string>
+		<key>8t</key>
+		<string>8t.png</string>
+		<key>8d</key>
+		<string>8d.png</string>
+		<key>9d</key>
+		<string>9d.png</string>
+		<key>9t</key>
+		<string>9t.png</string>
+	</dict>
+</array>
+</plist>

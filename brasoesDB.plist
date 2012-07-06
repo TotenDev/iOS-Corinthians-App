@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brasoesArray</key>
+		<array>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Nos três primeiros anos do clube, as camisas não tinham distintivo. O primeiro símbolo foi criado para disputar a Liga Paulista, e continha apenas as iniciais do clube, Corinthians Paulista.</string>
+				<key>periodoBrasao</key>
+				<string>1913</string>
+				<key>imageBrasao</key>
+				<string>bra_1p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_1g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Criado pelo litógrafo Hermogenes Barbuy, o primeiro escudo do Corinthians tinha o S de Sport, O C para Club e Corinthians, além do P de Paulista.</string>
+				<key>periodoBrasao</key>
+				<string>1914</string>
+				<key>imageBrasao</key>
+				<string>bra_2p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_2g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Surgem algumas modificações do símbolo de Hermogenes Barbuy.</string>
+				<key>periodoBrasao</key>
+				<string>1915</string>
+				<key>imageBrasao</key>
+				<string>bra_3p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_3g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Com o fundo redondo, e as mesmas iniciais, o símbolo já começava a caminhar para sua futura forma.</string>
+				<key>periodoBrasao</key>
+				<string>1916</string>
+				<key>imageBrasao</key>
+				<string>bra_4p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_4g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Mantendo a forma redonda, surge um símbolo com o nome completo, data de fundação e a bandeira de São Paulo centralizada.</string>
+				<key>periodoBrasao</key>
+				<string>1919</string>
+				<key>imageBrasao</key>
+				<string>bra_5p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_5g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Como referência aos esportes nauticos praticados pelo clube são adicionados remos, uma âncora e uma bóia. </string>
+				<key>periodoBrasao</key>
+				<string>1930</string>
+				<key>imageBrasao</key>
+				<string>bra_6p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_6g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Para a última versão forma feitas apenas algumas alterações no símbolo anterior, além da fiel descrição da bandeira paulista.</string>
+				<key>periodoBrasao</key>
+				<string>1940</string>
+				<key>imageBrasao</key>
+				<string>bra_7p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_7g.png</string>
+			</dict>
+			<dict>
+				<key>sobreBrasao</key>
+				<string>Foi criado para o ano do centenário um símbolo em homenagem a história do clube, com referência ao primeiro símbolo.</string>
+				<key>periodoBrasao</key>
+				<string>2009</string>
+				<key>imageBrasao</key>
+				<string>bra_8p.png</string>
+				<key>imageAmpliadaBrasao</key>
+				<string>bra_8g.png</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

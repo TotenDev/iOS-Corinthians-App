@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>eleconArray</key>
+		<array>
+			<dict>
+				<key>nomeIdolo</key>
+				<string>Gilmar dos Santos Neves</string>
+				<key>apelidoIdolos</key>
+				<string>Gilmar</string>
+				<key>idadeIdolo</key>
+				<string>22/08/1930</string>
+				<key>alturaIdolo</key>
+				<string>1,81</string>
+				<key>jogosIdolo</key>
+				<string>398</string>
+				<key>golsIdolo</key>
+				<string>529</string>
+				<key>nacionalidadeIdolo</key>
+				<string>Brasil</string>
+				<key>posicaoIdolo</key>
+				<string>Goleiro</string>
+				<key>peIdolo</key>
+				<string>destro</string>
+				<key>GLIdolo</key>
+				<string>sim</string>
+				<key>ZGIdolo</key>
+				<string>nao</string>
+				<key>LDIdolo</key>
+				<string>nao</string>
+				<key>LEIdolo</key>
+				<string>nao</string>
+				<key>VLIdolo</key>
+				<string>nao</string>
+				<key>MCIdolo</key>
+				<string>nao</string>
+				<key>MDIdolo</key>
+				<string>nao</string>
+				<key>MEIdolo</key>
+				<string>nao</string>
+				<key>ATIdolo</key>
+				<string>nao</string>
+				<key>PLIdolo</key>
+				<string>nao</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
